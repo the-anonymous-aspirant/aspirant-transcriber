@@ -132,9 +132,9 @@ docker run --rm --network host \
 
 ## Documentation
 
-- [TRANSCRIBER_SPEC.md](docs/TRANSCRIBER_SPEC.md) -- Full API specification and database schema
-- [TRANSCRIBER_ARCHITECTURE.md](docs/TRANSCRIBER_ARCHITECTURE.md) -- System architecture and module responsibilities
-- [TRANSCRIBER_OPERATIONS.md](docs/TRANSCRIBER_OPERATIONS.md) -- Setup, running, testing, and debugging
+- [SPEC.md](docs/SPEC.md) -- Full API specification and database schema
+- [ARCHITECTURE.md](docs/ARCHITECTURE.md) -- System architecture and module responsibilities
+- [OPERATIONS.md](docs/OPERATIONS.md) -- Setup, running, testing, and debugging
 - [DECISIONS.md](docs/DECISIONS.md) -- Key design decisions and rationale
 - [CHANGELOG.md](docs/CHANGELOG.md) -- Release history
 
